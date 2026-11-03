@@ -1,0 +1,11 @@
+{
+  "name": "gimmethesauce",
+  "displayName": "GimmeTheSauce",
+  "version": "1.0.0",
+  "description": "Find public sources on how app and SaaS founders launch, price and grow their products.",
+  "author": { "name": "David Attias", "url": "https://gimmethesauce.com" },
+  "homepage": "https://gimmethesauce.com/directory",
+  "repository": "https://github.com/best-trading-indicator-tools/gimmethesauce-mcp",
+  "logo": "assets/icon.png",
+  "mcpServers": "mcp.json"
+}

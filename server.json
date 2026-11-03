@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.best-trading-indicator-tools/gimmethesauce",
+  "title": "GimmeTheSauce",
+  "description": "Find public sources on how app and SaaS founders launch, price and grow their products.",
+  "version": "1.0.0",
+  "websiteUrl": "https://gimmethesauce.com/directory",
+  "repository": {
+    "url": "https://github.com/best-trading-indicator-tools/gimmethesauce-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/best-trading-indicator-tools/gimmethesauce-mcp/main/assets/icon.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gimmethesauce.com/mcp/directory"
+    }
+  ]
+}
